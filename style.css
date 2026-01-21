@@ -1,8 +1,16 @@
 h1 {
   color: red; 
+  front-weight: bold;
+  front-size: 20pt;
+  text-align: center;
 }
 .tieude {
   color: tomato;
   front-weight: bold;
   front-size: 20pt;
+}
+.noidung {
+  color: black;
+  front-style: normal;
+  front-size: 14pt;
 }
